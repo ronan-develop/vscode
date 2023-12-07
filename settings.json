@@ -26,14 +26,18 @@
     "editor.formatOnPaste": true,
     "editor.defaultFormatter": "vscode.markdown-language-features",
     "editor.rulers": [
-        90,140
+        90
     ],
-    "editor.wordWrapColumn": 90,
-    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrappingColumn": 120,
     // MD File
     "markdownlint.run": "onSave",
     "[markdown]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "prettier.proseWrap": "always",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "diffEditor.wordWrap": "on",
+    "prettier.printWidth": 90,
 }
