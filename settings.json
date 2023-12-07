@@ -1,0 +1,37 @@
+// C:\Users\arluXXXX\AppData\Roaming\Code\User\profiles\6X8X7XX1\settings.json
+{
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "node"
+    },
+    "files.autoSave": "afterDelay",
+    "redhat.telemetry.enabled": true,
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "git.autofetch": true,
+    "git.ignoreRebaseWarning": true,
+    "git.openRepositoryInParentFolders": "never",
+    "boot-java.rewrite.reconcile": true,
+    "database.connections": [],
+    "workbench.iconTheme": "material-icon-theme",
+    // editor
+    "editor.minimap.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "vscode.markdown-language-features",
+    "editor.rulers": [
+        90,140
+    ],
+    "editor.wordWrapColumn": 90,
+    // MD File
+    "markdownlint.run": "onSave",
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
