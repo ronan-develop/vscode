@@ -29,9 +29,11 @@
         90,140
     ],
     "editor.wordWrapColumn": 90,
+    "editor.wordWrap": "wordWrapColumn",
     // MD File
     "markdownlint.run": "onSave",
     "[markdown]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "prettier.proseWrap": "always",
 }
